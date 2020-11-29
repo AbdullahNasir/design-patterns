@@ -6,6 +6,6 @@
     "typescript": "^4.1.2"
   },
   "scripts": {
-    "start": "tsc && node ./dist/State/travel-planner.js"
+    "start": "tsc && node ./dist/Iterator/main.js"
   }
 }
