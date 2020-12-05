@@ -1,3 +1,7 @@
+# About
+
+Learning and practicing Design Patterns in typescript.
+
 # To run the code:
 
 1. Run `yarn install`
